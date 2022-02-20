@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MmaitsiMwale
 - 👀 I’m interested in Backend Development; Datascience; Machine Learning
-- 🌱 I’m currently learning Python; 
+- 🌱 I’m currently learning Bash; C; Python; Javascript; 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
